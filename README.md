@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Material-UI Boilerplate
+
+Basic boilerplate, if you would like to modify the theme settings, they can be found in /src/theme.js
 
 ## Available Scripts
 
