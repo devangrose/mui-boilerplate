@@ -6,6 +6,12 @@ Basic boilerplate, if you would like to modify the theme settings, they can be f
 
 Here is a link to the [docs](https://material-ui.com/)
 
+## Setup (Its really easy)
+
+Clone repo
+Run `npm install` 
+Now you can use `npm start` to start the application!
+
 ## Available Scripts
 
 In the project directory, you can run:
