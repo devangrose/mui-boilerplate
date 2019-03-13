@@ -8,8 +8,8 @@ Here is a link to the [docs](https://material-ui.com/)
 
 ## Setup (Its really easy)
 
-Clone repo
-Run `npm install` 
+Clone repo<br>
+Run `npm install`<br>
 Now you can use `npm start` to start the application!
 
 ## Available Scripts
